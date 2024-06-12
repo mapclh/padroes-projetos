@@ -1,7 +1,7 @@
 package Singleton;
 
 /**
- * Singleton "apressado"
+ * Singleton "Apressado"
  */
 
 public class SingletonEager {
